@@ -19,3 +19,7 @@ body {
 	border-top: 1px solid black;
 	margin: auto;
 }
+
+.content {
+	min-height: calc(100vh - 100px);
+}
